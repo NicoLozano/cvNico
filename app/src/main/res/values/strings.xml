@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CVNico</string>
+    <string name="fecha">24/10/1999</string>
+    <string name="telefono">+51 923372933</string>
+    <string name="casa">Lima - SMP</string>
+    <string name="email">1116101@senati.pe</string>
+    <string name="Experience">STUDENT</string>
+    <string name="name">Nico Lozano</string>
+</resources>
